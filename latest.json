@@ -26,6 +26,27 @@
         "trimestriel": 0,
         "moisPaiement": null
       }
+    },
+    "saintmande": {
+      "nom": "Saint-Mandé",
+      "adresse": "46 avenue du Général de Gaulle, 94160 Saint-Mandé",
+      "locataire": "Elisa Gobert",
+      "compte": "CCF LMNP Eva",
+      "driveId": "12x6FSd4rc_y6p9hbOf_7xjWB8vT0O0_1",
+      "soldeCompte": 0,
+      "loyerEntrant": 985,
+      "credit": 700.77,
+      "assurance": 10.49,
+      "assurance2": 23.2,
+      "pno": 0,
+      "taxeFonciere": {
+        "annuel": 500,
+        "moisPaiement": null
+      },
+      "copro": {
+        "trimestriel": 200,
+        "moisPaiement": null
+      }
     }
   },
   "comptes": {
@@ -72,5 +93,9 @@
       "epargneEva": 480,
       "bourse": 0
     }
+  },
+  "lmnpTravaux": {
+    "vincennes": [],
+    "saintmande": []
   }
 }
