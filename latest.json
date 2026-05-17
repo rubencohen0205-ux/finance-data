@@ -15,21 +15,28 @@
   "lmnp": {
     "vincennes": {
       "nom": "Vincennes",
-      "loyerEntrant": 985,
-      "credit": 826.3,
-      "assurance": 12.83,
+      "adresse": "22 rue Dohis, 94300 Vincennes",
+      "locataire": "Marius Ryckewaerde",
+      "compte": "CA LMNP Ruben",
+      "driveId": "1zwbhkNjUL3VQAspqoNT_56VsaD9iK8TH",
+      "soldeCompte": 0,
+      "loyerEntrant": 980,
+      "credit": 755.33,
+      "credit2": 71.97,
+      "assurance": 7.43,
+      "pno": 6,
       "taxeFonciere": {
-        "annuel": 0,
+        "annuel": 840,
         "moisPaiement": null
       },
       "copro": {
-        "trimestriel": 0,
+        "trimestriel": 180,
         "moisPaiement": null
       }
     },
     "saintmande": {
-      "nom": "Saint-Mandé",
-      "adresse": "46 avenue du Général de Gaulle, 94160 Saint-Mandé",
+      "nom": "Saint-Mand\u00e9",
+      "adresse": "46 avenue du General de Gaulle, 94160 Saint-Mande",
       "locataire": "Elisa Gobert",
       "compte": "CCF LMNP Eva",
       "driveId": "12x6FSd4rc_y6p9hbOf_7xjWB8vT0O0_1",
