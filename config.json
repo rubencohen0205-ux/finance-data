@@ -1,0 +1,7 @@
+{
+  "alertes": {
+    "fixe_max_pct": 55,
+    "plaisir_max_pct": 35,
+    "epargne_min_mensuelle": 800
+  }
+}
