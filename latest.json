@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "month": "2026-05",
+    "updatedAt": "2026-05-17T16:39:04.300Z",
+    "updatedBy": "Ruben"
+  },
+  "revenus": {
+    "ruben": {
+      "salaire": 2800
+    },
+    "eva": {
+      "salaire": 2680
+    }
+  },
+  "lmnp": {
+    "vincennes": {
+      "nom": "Vincennes",
+      "loyerEntrant": 985,
+      "credit": 826.3,
+      "assurance": 12.83,
+      "taxeFonciere": {
+        "annuel": 0,
+        "moisPaiement": null
+      },
+      "copro": {
+        "trimestriel": 0,
+        "moisPaiement": null
+      }
+    }
+  },
+  "comptes": {
+    "ruben": {
+      "caCourant": 0,
+      "fortuneo": 0,
+      "epargne": 0
+    },
+    "eva": {
+      "ccf": 0,
+      "sgCourant": 0,
+      "epargne": 0
+    },
+    "joint": {
+      "solde": 0
+    }
+  },
+  "depenses": {
+    "fixe": {
+      "loyer": 1450,
+      "creditEva": 700,
+      "electriciteGaz": 181.93,
+      "internet": 25,
+      "assuranceHab": 24,
+      "boulanger": 12,
+      "navigo": 90,
+      "torahbox": 68,
+      "freeTel": 20,
+      "sportEva": 23,
+      "claude": 21,
+      "utwin": 24,
+      "pno": 11,
+      "telRuben": 15,
+      "sportRuben": 32
+    },
+    "plaisir": {
+      "coursesAlim": 600,
+      "viande": 250,
+      "sorties": 0,
+      "divers": 0
+    },
+    "investissement": {
+      "epargneRuben": 380,
+      "epargneEva": 480,
+      "bourse": 0
+    }
+  }
+}
