@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-05",
-    "updatedAt": "2026-05-17T16:39:04.300Z",
+    "updatedAt": "2026-05-19T14:02:11.420Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -35,7 +35,7 @@
       }
     },
     "saintmande": {
-      "nom": "Saint-Mand\u00e9",
+      "nom": "Saint-Mandé",
       "adresse": "46 avenue du General de Gaulle, 94160 Saint-Mande",
       "locataire": "Elisa Gobert",
       "compte": "CCF LMNP Eva",
@@ -65,10 +65,13 @@
     "eva": {
       "ccf": 0,
       "sgCourant": 0,
-      "epargne": 0
+      "epargne": 0,
+      "assuranceVie": 18593,
+      "pee": 1439
     },
     "joint": {
-      "solde": 0
+      "solde": 0,
+      "livret": 20000
     }
   },
   "depenses": {
@@ -104,5 +107,85 @@
   "lmnpTravaux": {
     "vincennes": [],
     "saintmande": []
+  },
+  "prelevements": {
+    "joint": [
+      {
+        "id": "loyer",
+        "label": "Loyer",
+        "montant": 1450,
+        "cat": "logement",
+        "jour": 1
+      },
+      {
+        "id": "electriciteGaz",
+        "label": "Électricité & Gaz",
+        "montant": 181.93,
+        "cat": "logement"
+      },
+      {
+        "id": "internet",
+        "label": "Internet & TV",
+        "montant": 25,
+        "cat": "telecom"
+      },
+      {
+        "id": "assuranceHab",
+        "label": "Assurance habitation",
+        "montant": 24,
+        "cat": "logement"
+      },
+      {
+        "id": "boulanger",
+        "label": "Boulanger mensuel",
+        "montant": 12,
+        "cat": "logement"
+      },
+      {
+        "id": "navigo",
+        "label": "Navigo",
+        "montant": 90,
+        "cat": "autre"
+      },
+      {
+        "id": "torahbox",
+        "label": "Torahbox",
+        "montant": 68,
+        "cat": "autre"
+      },
+      {
+        "id": "freeTel",
+        "label": "Free (tel Eva)",
+        "montant": 20,
+        "cat": "telecom"
+      },
+      {
+        "id": "sportEva",
+        "label": "Sport Eva",
+        "montant": 23,
+        "cat": "sport"
+      },
+      {
+        "id": "claude",
+        "label": "Claude AI",
+        "montant": 21,
+        "cat": "autre"
+      },
+      {
+        "id": "telRuben",
+        "label": "Téléphone Ruben",
+        "montant": 15,
+        "cat": "telecom"
+      },
+      {
+        "id": "sportRuben",
+        "label": "Sport Ruben",
+        "montant": 32,
+        "cat": "sport"
+      }
+    ],
+    "ruben_ca": [],
+    "eva_ccf": [],
+    "eva_sg": []
   }
 }
