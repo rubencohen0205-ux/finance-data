@@ -1,15 +1,19 @@
 {
   "meta": {
     "month": "2026-05",
-    "updatedAt": "2026-05-19T14:02:11.420Z",
+    "updatedAt": "2026-05-19T19:30:53.076Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
     "ruben": {
-      "salaire": 2800
+      "salaire": 2800,
+      "tauxPAS": 7.9,
+      "salaireNet": 3990
     },
     "eva": {
-      "salaire": 2680
+      "salaire": 2680,
+      "tauxPAS": 17,
+      "salaireNet": 2680
     }
   },
   "lmnp": {
@@ -19,7 +23,7 @@
       "locataire": "Marius Ryckewaerde",
       "compte": "CA LMNP Ruben",
       "driveId": "1zwbhkNjUL3VQAspqoNT_56VsaD9iK8TH",
-      "soldeCompte": 0,
+      "soldeCompte": 2429.3,
       "loyerEntrant": 980,
       "credit": 755.33,
       "credit2": 71.97,
@@ -32,7 +36,9 @@
       "copro": {
         "trimestriel": 180,
         "moisPaiement": null
-      }
+      },
+      "creditLabel": "Crédit 153k",
+      "credit2Label": "Crédit 17k"
     },
     "saintmande": {
       "nom": "Saint-Mandé",
@@ -53,25 +59,27 @@
       "copro": {
         "trimestriel": 200,
         "moisPaiement": null
-      }
+      },
+      "creditLabel": "Crédit immobilier"
     }
   },
   "comptes": {
     "ruben": {
       "caCourant": 0,
       "fortuneo": 0,
-      "epargne": 0
+      "epargne": 20000
     },
     "eva": {
       "ccf": 0,
       "sgCourant": 0,
-      "epargne": 0,
+      "epargne": 8068,
       "assuranceVie": 18593,
-      "pee": 1439
+      "pee": 1439,
+      "livretA": 10000
     },
     "joint": {
       "solde": 0,
-      "livret": 20000
+      "livret": 0
     }
   },
   "depenses": {
@@ -119,7 +127,7 @@
       },
       {
         "id": "electriciteGaz",
-        "label": "Électricité & Gaz",
+        "label": "Eléctricité & Gaz",
         "montant": 181.93,
         "cat": "logement"
       },
@@ -137,7 +145,7 @@
       },
       {
         "id": "boulanger",
-        "label": "Boulanger mensuel",
+        "label": "Assurance Boulanger ",
         "montant": 12,
         "cat": "logement"
       },
