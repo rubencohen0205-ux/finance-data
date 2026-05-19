@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "month": "2026-05",
+    "updatedAt": "2026-05-19T14:02:11.420Z",
+    "updatedBy": "Ruben"
+  },
+  "revenus": {
+    "ruben": {
+      "salaire": 2800
+    },
+    "eva": {
+      "salaire": 2680
+    }
+  },
+  "lmnp": {
+    "vincennes": {
+      "nom": "Vincennes",
+      "adresse": "22 rue Dohis, 94300 Vincennes",
+      "locataire": "Marius Ryckewaerde",
+      "compte": "CA LMNP Ruben",
+      "driveId": "1zwbhkNjUL3VQAspqoNT_56VsaD9iK8TH",
+      "soldeCompte": 0,
+      "loyerEntrant": 980,
+      "credit": 755.33,
+      "credit2": 71.97,
+      "assurance": 7.43,
+      "pno": 6,
+      "taxeFonciere": {
+        "annuel": 840,
+        "moisPaiement": null
+      },
+      "copro": {
+        "trimestriel": 180,
+        "moisPaiement": null
+      }
+    },
+    "saintmande": {
+      "nom": "Saint-Mandé",
+      "adresse": "46 avenue du General de Gaulle, 94160 Saint-Mande",
+      "locataire": "Elisa Gobert",
+      "compte": "CCF LMNP Eva",
+      "driveId": "12x6FSd4rc_y6p9hbOf_7xjWB8vT0O0_1",
+      "soldeCompte": 0,
+      "loyerEntrant": 985,
+      "credit": 700.77,
+      "assurance": 10.49,
+      "assurance2": 23.2,
+      "pno": 0,
+      "taxeFonciere": {
+        "annuel": 500,
+        "moisPaiement": null
+      },
+      "copro": {
+        "trimestriel": 200,
+        "moisPaiement": null
+      }
+    }
+  },
+  "comptes": {
+    "ruben": {
+      "caCourant": 0,
+      "fortuneo": 0,
+      "epargne": 0
+    },
+    "eva": {
+      "ccf": 0,
+      "sgCourant": 0,
+      "epargne": 0,
+      "assuranceVie": 18593,
+      "pee": 1439
+    },
+    "joint": {
+      "solde": 0,
+      "livret": 20000
+    }
+  },
+  "depenses": {
+    "fixe": {
+      "loyer": 1450,
+      "creditEva": 700,
+      "electriciteGaz": 181.93,
+      "internet": 25,
+      "assuranceHab": 24,
+      "boulanger": 12,
+      "navigo": 90,
+      "torahbox": 68,
+      "freeTel": 20,
+      "sportEva": 23,
+      "claude": 21,
+      "utwin": 24,
+      "pno": 11,
+      "telRuben": 15,
+      "sportRuben": 32
+    },
+    "plaisir": {
+      "coursesAlim": 600,
+      "viande": 250,
+      "sorties": 0,
+      "divers": 0
+    },
+    "investissement": {
+      "epargneRuben": 380,
+      "epargneEva": 480,
+      "bourse": 0
+    }
+  },
+  "lmnpTravaux": {
+    "vincennes": [],
+    "saintmande": []
+  },
+  "prelevements": {
+    "joint": [
+      {
+        "id": "loyer",
+        "label": "Loyer",
+        "montant": 1450,
+        "cat": "logement",
+        "jour": 1
+      },
+      {
+        "id": "electriciteGaz",
+        "label": "Électricité & Gaz",
+        "montant": 181.93,
+        "cat": "logement"
+      },
+      {
+        "id": "internet",
+        "label": "Internet & TV",
+        "montant": 25,
+        "cat": "telecom"
+      },
+      {
+        "id": "assuranceHab",
+        "label": "Assurance habitation",
+        "montant": 24,
+        "cat": "logement"
+      },
+      {
+        "id": "boulanger",
+        "label": "Boulanger mensuel",
+        "montant": 12,
+        "cat": "logement"
+      },
+      {
+        "id": "navigo",
+        "label": "Navigo",
+        "montant": 90,
+        "cat": "autre"
+      },
+      {
+        "id": "torahbox",
+        "label": "Torahbox",
+        "montant": 68,
+        "cat": "autre"
+      },
+      {
+        "id": "freeTel",
+        "label": "Free (tel Eva)",
+        "montant": 20,
+        "cat": "telecom"
+      },
+      {
+        "id": "sportEva",
+        "label": "Sport Eva",
+        "montant": 23,
+        "cat": "sport"
+      },
+      {
+        "id": "claude",
+        "label": "Claude AI",
+        "montant": 21,
+        "cat": "autre"
+      },
+      {
+        "id": "telRuben",
+        "label": "Téléphone Ruben",
+        "montant": 15,
+        "cat": "telecom"
+      },
+      {
+        "id": "sportRuben",
+        "label": "Sport Ruben",
+        "montant": 32,
+        "cat": "sport"
+      }
+    ],
+    "ruben_ca": [],
+    "eva_ccf": [],
+    "eva_sg": []
+  }
+}
