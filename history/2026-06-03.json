@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-06",
-    "updatedAt": "2026-06-03T12:57:32.818Z",
+    "updatedAt": "2026-06-03T12:57:38.196Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -85,11 +85,6 @@
           "label": "Livret A",
           "montant": 20010,
           "precaution": true
-        },
-        {
-          "id": "ruben-ldd",
-          "label": "LDD Solidaire",
-          "montant": 10
         }
       ]
     },
