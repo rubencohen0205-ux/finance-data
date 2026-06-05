@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-06",
-    "updatedAt": "2026-06-05T12:42:48.432Z",
+    "updatedAt": "2026-06-05T12:50:28.602Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -77,7 +77,7 @@
   },
   "comptes": {
     "ruben": {
-      "caCourant": 0,
+      "caCourant": 300,
       "fortuneo": 0,
       "epargne": 0,
       "ldd": 0,
