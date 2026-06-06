@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-06",
-    "updatedAt": "2026-06-05T13:13:13.956Z",
+    "updatedAt": "2026-06-06T22:24:27.361Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -283,7 +283,7 @@
         "id": 1780353387876,
         "label": "Carte",
         "montant": 15.5,
-        "jour": null,
+        "jour": 6,
         "cat": "autre",
         "paid": false
       }
