@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-06",
-    "updatedAt": "2026-06-09T18:23:05.254Z",
+    "updatedAt": "2026-06-09T18:25:04.787Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -200,7 +200,7 @@
         "label": "Eléctricité & Gaz",
         "montant": 181.93,
         "cat": "logement",
-        "paid": false
+        "paid": true
       },
       {
         "id": "internet",
