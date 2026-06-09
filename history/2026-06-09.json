@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-06",
-    "updatedAt": "2026-06-09T18:21:36.730Z",
+    "updatedAt": "2026-06-09T18:21:54.004Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -115,7 +115,7 @@
         },
         {
           "id": "eva-1781029208400",
-          "label": "PEEe",
+          "label": "PEE",
           "montant": 0
         }
       ]
