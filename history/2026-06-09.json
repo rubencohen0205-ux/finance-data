@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-06",
-    "updatedAt": "2026-06-09T18:15:07.857Z",
+    "updatedAt": "2026-06-09T18:18:50.208Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -67,7 +67,7 @@
         "moisPaiement": null
       },
       "creditLabel": "Crédit immobilier",
-      "creditJour": null,
+      "creditJour": 4,
       "assuranceJour": null,
       "assurance2Jour": null,
       "assuranceLabel": "Assurance Lovys",
