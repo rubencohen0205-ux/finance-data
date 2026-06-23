@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-06",
-    "updatedAt": "2026-06-09T18:25:04.787Z",
+    "updatedAt": "2026-06-23T12:57:42.296Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -133,16 +133,6 @@
     }
   },
   "depensesAPrevoir": [
-    {
-      "id": 1780309406599,
-      "label": "Reste à payer sur zanzibar",
-      "montant": 2450
-    },
-    {
-      "id": 1780309418425,
-      "label": "Au cas ou Zanzibar",
-      "montant": 2000
-    },
     {
       "id": 1780345584921,
       "label": "Enveloppe Aurélia",
