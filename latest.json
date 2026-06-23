@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-06",
-    "updatedAt": "2026-06-23T12:57:42.296Z",
+    "updatedAt": "2026-06-23T13:03:01.368Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -243,7 +243,7 @@
         "label": "Sport Eva",
         "montant": 23,
         "cat": "sport",
-        "paid": false,
+        "paid": true,
         "jour": 19
       },
       {
