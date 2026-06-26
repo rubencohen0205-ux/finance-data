@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-06",
-    "updatedAt": "2026-06-26T08:32:09.520Z",
+    "updatedAt": "2026-06-26T08:32:22.913Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -85,7 +85,7 @@
         {
           "id": "ruben-livret-a",
           "label": "Livret A",
-          "montant": 20010,
+          "montant": 21436,
           "precaution": true
         }
       ]
