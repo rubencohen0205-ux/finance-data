@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-06",
-    "updatedAt": "2026-06-26T08:31:03.716Z",
+    "updatedAt": "2026-06-26T08:31:19.171Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -23,7 +23,7 @@
       "locataire": "Marius Ryckewaerde",
       "compte": "CA LMNP Ruben",
       "driveId": "1zwbhkNjUL3VQAspqoNT_56VsaD9iK8TH",
-      "soldeCompte": 3397.23,
+      "soldeCompte": 0,
       "loyerEntrant": 980,
       "credit": 755.33,
       "credit2": 71.97,
