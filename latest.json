@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-06",
-    "updatedAt": "2026-06-29T06:47:55.999Z",
+    "updatedAt": "2026-06-29T06:48:02.802Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -106,7 +106,7 @@
         {
           "id": "eva-epargne",
           "label": "Livret CCF Épargne",
-          "montant": 8118
+          "montant": 8598
         },
         {
           "id": "eva-1782469027830",
