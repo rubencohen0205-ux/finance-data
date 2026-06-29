@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-06",
-    "updatedAt": "2026-06-26T10:17:20.321Z",
+    "updatedAt": "2026-06-29T06:47:30.284Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -109,6 +109,11 @@
           "montant": 8118
         },
         {
+          "id": "eva-1782469027830",
+          "label": "Livret LDDS SG ",
+          "montant": 1444
+        },
+        {
           "id": "eva-av",
           "label": "Assurance Vie (SG)",
           "montant": 18773
@@ -117,11 +122,6 @@
           "id": "eva-1781029208400",
           "label": "PEE",
           "montant": 4389
-        },
-        {
-          "id": "eva-1782469027830",
-          "label": "Livret LDDS SG ",
-          "montant": 1444
         }
       ]
     },
