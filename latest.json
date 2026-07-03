@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-06",
-    "updatedAt": "2026-06-29T09:00:25.235Z",
+    "updatedAt": "2026-07-03T19:26:42.476Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -138,11 +138,6 @@
     }
   },
   "depensesAPrevoir": [
-    {
-      "id": 1780345584921,
-      "label": "Enveloppe Aurélia",
-      "montant": 200
-    },
     {
       "id": 1780345609301,
       "label": "Enveloppe Eli",
