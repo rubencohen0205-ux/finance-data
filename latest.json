@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-06",
-    "updatedAt": "2026-07-03T19:31:57.738Z",
+    "updatedAt": "2026-07-03T19:32:29.940Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -261,7 +261,7 @@
         "label": "Sport Ruben",
         "montant": 32,
         "cat": "sport",
-        "paid": false,
+        "paid": true,
         "jour": 4
       }
     ],
