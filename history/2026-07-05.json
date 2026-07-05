@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-07",
-    "updatedAt": "2026-07-05T08:54:47.673Z",
+    "updatedAt": "2026-07-05T08:54:53.095Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -186,7 +186,7 @@
         "label": "Internet & TV",
         "montant": 25,
         "cat": "telecom",
-        "paid": false,
+        "paid": true,
         "jour": 5
       },
       {
@@ -202,7 +202,7 @@
         "label": "Ass Boulanger ",
         "montant": 12,
         "cat": "logement",
-        "paid": true,
+        "paid": false,
         "jour": 5
       },
       {
@@ -250,7 +250,7 @@
         "label": "Téléphone Ruben",
         "montant": 12,
         "cat": "telecom",
-        "paid": false,
+        "paid": true,
         "jour": 6
       },
       {
