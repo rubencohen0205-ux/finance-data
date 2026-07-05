@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-06",
-    "updatedAt": "2026-07-05T08:52:55.261Z",
+    "updatedAt": "2026-07-05T08:53:00.677Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -206,7 +206,7 @@
       },
       {
         "id": "boulanger",
-        "label": "Assurance Boulanger ",
+        "label": "Ass Boulanger ",
         "montant": 12,
         "cat": "logement",
         "paid": false,
