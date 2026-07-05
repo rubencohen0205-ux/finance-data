@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-06",
-    "updatedAt": "2026-07-05T08:52:09.285Z",
+    "updatedAt": "2026-07-05T08:52:20.077Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -230,7 +230,7 @@
       },
       {
         "id": "freeTel",
-        "label": "Free (tel Eva)",
+        "label": "Tel Eva",
         "montant": 12,
         "cat": "telecom",
         "paid": false
