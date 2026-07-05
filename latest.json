@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-06",
-    "updatedAt": "2026-07-03T19:32:29.940Z",
+    "updatedAt": "2026-07-05T08:50:56.575Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -44,7 +44,7 @@
       "assuranceJour": null,
       "pnoJour": null,
       "assuranceLabel": "Assurance emprunteur",
-      "quittanceEnvoyee": "2026-06"
+      "quittanceEnvoyee": "2026-07"
     },
     "saintmande": {
       "nom": "Saint-Mandé",
@@ -72,7 +72,7 @@
       "assurance2Jour": 5,
       "assuranceLabel": "Assurance Lovys",
       "assurance2Label": "Assurance Utwin",
-      "quittanceEnvoyee": "2026-06"
+      "quittanceEnvoyee": "2026-07"
     }
   },
   "comptes": {
