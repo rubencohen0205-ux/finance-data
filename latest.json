@@ -1,7 +1,7 @@
 {
   "meta": {
-    "month": "2026-06",
-    "updatedAt": "2026-07-05T08:53:29.119Z",
+    "month": "2026-07",
+    "updatedAt": "2026-07-05T08:54:16.355Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -77,8 +77,8 @@
   },
   "comptes": {
     "ruben": {
-      "caCourant": 1240,
-      "fortuneo": 250,
+      "caCourant": 0,
+      "fortuneo": 0,
       "epargne": 0,
       "ldd": 0,
       "livrets": [
@@ -126,7 +126,7 @@
       ]
     },
     "joint": {
-      "solde": 250,
+      "solde": 0,
       "livret": 0,
       "livrets": [
         {
@@ -137,13 +137,6 @@
       ]
     }
   },
-  "depensesAPrevoir": [
-    {
-      "id": 1780345609301,
-      "label": "Enveloppe Eli",
-      "montant": 200
-    }
-  ],
   "depensesPrevues": {
     "ruben": [
       {
@@ -178,14 +171,14 @@
         "montant": 1450,
         "cat": "logement",
         "jour": 1,
-        "paid": true
+        "paid": false
       },
       {
         "id": "electriciteGaz",
         "label": "Eléctricité & Gaz",
         "montant": 181.93,
         "cat": "logement",
-        "paid": true,
+        "paid": false,
         "jour": 5
       },
       {
@@ -193,7 +186,7 @@
         "label": "Internet & TV",
         "montant": 25,
         "cat": "telecom",
-        "paid": true,
+        "paid": false,
         "jour": 5
       },
       {
@@ -201,7 +194,7 @@
         "label": "Ass habitation",
         "montant": 24,
         "cat": "logement",
-        "paid": true,
+        "paid": false,
         "jour": 5
       },
       {
@@ -209,7 +202,7 @@
         "label": "Ass Boulanger ",
         "montant": 12,
         "cat": "logement",
-        "paid": true,
+        "paid": false,
         "jour": 5
       },
       {
@@ -217,7 +210,7 @@
         "label": "Navigo",
         "montant": 90,
         "cat": "autre",
-        "paid": true,
+        "paid": false,
         "jour": 5
       },
       {
@@ -257,7 +250,7 @@
         "label": "Téléphone Ruben",
         "montant": 12,
         "cat": "telecom",
-        "paid": true,
+        "paid": false,
         "jour": 6
       },
       {
@@ -265,7 +258,7 @@
         "label": "Sport Ruben",
         "montant": 32,
         "cat": "sport",
-        "paid": true,
+        "paid": false,
         "jour": 4
       }
     ],
