@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-07",
-    "updatedAt": "2026-07-05T08:55:27.824Z",
+    "updatedAt": "2026-07-05T08:55:32.185Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -332,7 +332,7 @@
     {
       "id": 1783241715332,
       "label": "Enveloppe Eli ",
-      "montant": null
+      "montant": 200
     }
   ]
 }
