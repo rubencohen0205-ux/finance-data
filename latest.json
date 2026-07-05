@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-07",
-    "updatedAt": "2026-07-05T08:55:17.334Z",
+    "updatedAt": "2026-07-05T08:55:27.824Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -331,7 +331,7 @@
   "depensesAPrevoir": [
     {
       "id": 1783241715332,
-      "label": "",
+      "label": "Enveloppe Eli ",
       "montant": null
     }
   ]
