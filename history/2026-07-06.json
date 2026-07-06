@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-07",
-    "updatedAt": "2026-07-06T19:08:37.984Z",
+    "updatedAt": "2026-07-06T19:08:41.709Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -219,7 +219,7 @@
         "montant": 68,
         "cat": "autre",
         "paid": true,
-        "jour": 5
+        "jour": 7
       },
       {
         "id": "freeTel",
