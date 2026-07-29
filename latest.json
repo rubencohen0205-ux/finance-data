@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-07",
-    "updatedAt": "2026-07-06T19:08:48.011Z",
+    "updatedAt": "2026-07-29T10:32:10.459Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -247,7 +247,7 @@
       },
       {
         "id": "telRuben",
-        "label": "Téléphone Ruben",
+        "label": "Tél Ruben",
         "montant": 12,
         "cat": "telecom",
         "paid": true,
