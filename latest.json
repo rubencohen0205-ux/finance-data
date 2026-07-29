@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-07",
-    "updatedAt": "2026-07-29T10:34:08.029Z",
+    "updatedAt": "2026-07-29T10:35:42.742Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -184,7 +184,7 @@
       {
         "id": "internet",
         "label": "Internet & TV",
-        "montant": 25,
+        "montant": 26,
         "cat": "telecom",
         "paid": true,
         "jour": 5
