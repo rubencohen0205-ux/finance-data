@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-07",
-    "updatedAt": "2026-07-31T15:42:42.423Z",
+    "updatedAt": "2026-07-31T15:43:02.658Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -106,7 +106,7 @@
         {
           "id": "eva-epargne",
           "label": "Livret CCF Épargne",
-          "montant": 8598
+          "montant": 9038
         },
         {
           "id": "eva-1782469027830",
@@ -116,7 +116,7 @@
         {
           "id": "eva-av",
           "label": "Assurance Vie (SG)",
-          "montant": 18773
+          "montant": 18857
         },
         {
           "id": "eva-1781029208400",
