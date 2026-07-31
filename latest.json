@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-07",
-    "updatedAt": "2026-07-29T10:35:53.321Z",
+    "updatedAt": "2026-07-31T12:57:50.664Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -171,14 +171,14 @@
         "montant": 1450,
         "cat": "logement",
         "jour": 1,
-        "paid": true
+        "paid": false
       },
       {
         "id": "electriciteGaz",
         "label": "Eléctricité & Gaz",
         "montant": 181.93,
         "cat": "logement",
-        "paid": true,
+        "paid": false,
         "jour": 5
       },
       {
@@ -186,7 +186,7 @@
         "label": "Internet & TV",
         "montant": 26,
         "cat": "telecom",
-        "paid": true,
+        "paid": false,
         "jour": 5
       },
       {
@@ -194,7 +194,7 @@
         "label": "Ass habitation",
         "montant": 24,
         "cat": "logement",
-        "paid": true,
+        "paid": false,
         "jour": 5
       },
       {
@@ -210,7 +210,7 @@
         "label": "Navigo",
         "montant": 90,
         "cat": "autre",
-        "paid": true,
+        "paid": false,
         "jour": 5
       },
       {
@@ -218,7 +218,7 @@
         "label": "Torahbox",
         "montant": 68,
         "cat": "autre",
-        "paid": true,
+        "paid": false,
         "jour": 7
       },
       {
@@ -250,7 +250,7 @@
         "label": "Tél Ruben",
         "montant": 9.02,
         "cat": "telecom",
-        "paid": true,
+        "paid": false,
         "jour": 6
       },
       {
@@ -258,7 +258,7 @@
         "label": "Sport Ruben",
         "montant": 32,
         "cat": "sport",
-        "paid": true,
+        "paid": false,
         "jour": 4
       }
     ],
