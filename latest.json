@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-07",
-    "updatedAt": "2026-07-31T15:43:10.393Z",
+    "updatedAt": "2026-08-27T11:48:34.688Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -44,7 +44,7 @@
       "assuranceJour": null,
       "pnoJour": null,
       "assuranceLabel": "Assurance emprunteur",
-      "quittanceEnvoyee": "2026-07"
+      "quittanceEnvoyee": "2026-08"
     },
     "saintmande": {
       "nom": "Saint-Mandé",
