@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-08",
-    "updatedAt": "2026-09-01T06:44:12.140Z",
+    "updatedAt": "2026-09-01T06:44:16.812Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -109,11 +109,6 @@
           "montant": 8498
         },
         {
-          "id": "eva-1782469027830",
-          "label": "Livret LDDS SG  - Vacance ",
-          "montant": 1080
-        },
-        {
           "id": "eva-1788244888106",
           "label": "Compte sur livret",
           "montant": 1454
@@ -132,6 +127,11 @@
           "id": "eva-1788245019200",
           "label": "",
           "montant": 0
+        },
+        {
+          "id": "eva-1782469027830",
+          "label": "Livret LDDS SG  - Vacance ",
+          "montant": 1080
         }
       ]
     },
