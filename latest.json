@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-09",
-    "updatedAt": "2026-09-01T06:55:34.326Z",
+    "updatedAt": "2026-09-01T17:42:33.708Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -342,5 +342,12 @@
       "epargneEva": 480,
       "bourse": 0
     }
-  }
+  },
+  "depensesAPrevoir": [
+    {
+      "id": 1788284551701,
+      "label": "",
+      "montant": null
+    }
+  ]
 }
