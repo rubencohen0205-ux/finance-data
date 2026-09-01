@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-08",
-    "updatedAt": "2026-08-28T07:56:16.224Z",
+    "updatedAt": "2026-09-01T06:39:06.314Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -327,5 +327,12 @@
       "epargneEva": 480,
       "bourse": 0
     }
-  }
+  },
+  "depensesAPrevoir": [
+    {
+      "id": 1788244738878,
+      "label": "anniv shai et simon ce mois ci",
+      "montant": null
+    }
+  ]
 }
