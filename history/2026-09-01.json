@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-08",
-    "updatedAt": "2026-09-01T06:39:34.163Z",
+    "updatedAt": "2026-09-01T06:39:59.370Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -91,7 +91,7 @@
       ]
     },
     "eva": {
-      "ccf": 0,
+      "ccf": 2167,
       "sgCourant": 0,
       "epargne": 0,
       "livretA": 0,
