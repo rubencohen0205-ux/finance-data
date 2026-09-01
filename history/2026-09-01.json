@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-08",
-    "updatedAt": "2026-09-01T06:48:41.207Z",
+    "updatedAt": "2026-09-01T06:49:40.286Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -92,6 +92,11 @@
           "id": "ruben-1788245123074",
           "label": "LIVRET VACANCE ",
           "montant": 800
+        },
+        {
+          "id": "ruben-1788245378277",
+          "label": "",
+          "montant": 0
         }
       ]
     },
