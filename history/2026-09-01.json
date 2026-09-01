@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-08",
-    "updatedAt": "2026-09-01T06:47:24.361Z",
+    "updatedAt": "2026-09-01T06:47:58.879Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -150,11 +150,6 @@
   "depensesPrevues": {
     "ruben": [
       {
-        "id": 1780344719910,
-        "label": "Courses",
-        "montant": 150
-      },
-      {
         "id": 1780345122119,
         "label": "Coiffeur",
         "montant": 60
@@ -169,6 +164,11 @@
       {
         "id": 1780345546696,
         "label": "Viande",
+        "montant": 150
+      },
+      {
+        "id": 1788245275105,
+        "label": "Courses",
         "montant": 150
       }
     ]
