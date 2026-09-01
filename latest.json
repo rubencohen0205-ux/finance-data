@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-08",
-    "updatedAt": "2026-09-01T06:48:36.352Z",
+    "updatedAt": "2026-09-01T06:48:41.207Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -121,7 +121,7 @@
         {
           "id": "eva-av",
           "label": "Assurance Vie (SG)",
-          "montant": 1932
+          "montant": 19032
         },
         {
           "id": "eva-1781029208400",
