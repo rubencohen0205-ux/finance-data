@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-08",
-    "updatedAt": "2026-09-01T06:41:14.592Z",
+    "updatedAt": "2026-09-01T06:41:24.871Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -111,7 +111,7 @@
         {
           "id": "eva-1782469027830",
           "label": "Livret LDDS SG ",
-          "montant": 1444
+          "montant": 1080
         },
         {
           "id": "eva-av",
