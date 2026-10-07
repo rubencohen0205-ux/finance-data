@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-09",
-    "updatedAt": "2026-10-07T17:43:32.145Z",
+    "updatedAt": "2026-10-07T17:44:30.490Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -141,7 +141,7 @@
       ]
     },
     "joint": {
-      "solde": 0,
+      "solde": 792,
       "livret": 0,
       "livrets": [
         {
