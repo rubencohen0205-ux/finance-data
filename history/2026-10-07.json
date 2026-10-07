@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-09",
-    "updatedAt": "2026-10-07T17:39:33.027Z",
+    "updatedAt": "2026-10-07T17:39:48.838Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -157,7 +157,7 @@
       {
         "id": 1780345122119,
         "label": "Coiffeur",
-        "montant": 60
+        "montant": 40
       },
       {
         "id": 1780345132884,
