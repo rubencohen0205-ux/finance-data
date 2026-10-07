@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-09",
-    "updatedAt": "2026-10-07T17:42:20.185Z",
+    "updatedAt": "2026-10-07T17:42:24.611Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -251,14 +251,6 @@
         "cat": "sport",
         "paid": false,
         "jour": 19
-      },
-      {
-        "id": "claude",
-        "label": "Claude AI",
-        "montant": 21,
-        "cat": "autre",
-        "paid": false,
-        "jour": 8
       },
       {
         "id": "telRuben",
