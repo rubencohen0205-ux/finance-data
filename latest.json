@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-09",
-    "updatedAt": "2026-10-07T17:47:19.761Z",
+    "updatedAt": "2026-10-07T17:47:47.061Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -111,7 +111,7 @@
         {
           "id": "eva-livret-a",
           "label": "Livret A (SG)",
-          "montant": 10483
+          "montant": 10503
         },
         {
           "id": "eva-epargne",
