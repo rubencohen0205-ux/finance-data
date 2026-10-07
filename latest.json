@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-09",
-    "updatedAt": "2026-10-07T17:40:31.798Z",
+    "updatedAt": "2026-10-07T17:41:37.770Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -91,7 +91,7 @@
         {
           "id": "ruben-1788245378277",
           "label": "PEA",
-          "montant": 850
+          "montant": 1573
         },
         {
           "id": "ruben-1788245395123",
