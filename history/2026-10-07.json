@@ -1,13 +1,13 @@
 {
   "meta": {
     "month": "2026-09",
-    "updatedAt": "2026-10-07T17:38:45.427Z",
+    "updatedAt": "2026-10-07T17:39:09.908Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
     "ruben": {
       "salaire": 2800,
-      "tauxPAS": 7.9,
+      "tauxPAS": 14,
       "salaireNet": 3990
     },
     "eva": {
