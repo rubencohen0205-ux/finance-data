@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-11",
-    "updatedAt": "2026-11-05T19:08:24.593Z",
+    "updatedAt": "2026-11-05T19:08:40.769Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -97,6 +97,11 @@
           "id": "ruben-1788245395123",
           "label": " Assurance vie",
           "montant": 500
+        },
+        {
+          "id": "ruben-1793905718510",
+          "label": "",
+          "montant": 0
         }
       ]
     },
