@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-11",
-    "updatedAt": "2026-11-05T19:05:33.698Z",
+    "updatedAt": "2026-11-05T19:06:31.598Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -267,14 +267,6 @@
         "cat": "sport",
         "paid": false,
         "jour": 4
-      },
-      {
-        "id": "claude",
-        "label": "Claude AI",
-        "montant": 21,
-        "cat": "autre",
-        "jour": null,
-        "paid": false
       }
     ],
     "ruben_ca": [
