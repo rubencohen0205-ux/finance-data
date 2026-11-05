@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-11",
-    "updatedAt": "2026-11-05T19:08:40.769Z",
+    "updatedAt": "2026-11-05T19:09:37.066Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -100,7 +100,7 @@
         },
         {
           "id": "ruben-1793905718510",
-          "label": "",
+          "label": "PEE",
           "montant": 0
         }
       ]
