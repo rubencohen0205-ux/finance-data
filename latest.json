@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-11",
-    "updatedAt": "2026-11-05T19:02:18.731Z",
+    "updatedAt": "2026-11-05T19:05:28.001Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -186,7 +186,7 @@
         "montant": 1450,
         "cat": "logement",
         "jour": 1,
-        "paid": false
+        "paid": true
       },
       {
         "id": "electriciteGaz",
