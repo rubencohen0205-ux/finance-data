@@ -1,7 +1,7 @@
 {
   "meta": {
     "month": "2026-11",
-    "updatedAt": "2026-11-05T19:14:31.064Z",
+    "updatedAt": "2026-11-08T11:17:13.211Z",
     "updatedBy": "Ruben"
   },
   "revenus": {
@@ -152,7 +152,7 @@
         {
           "id": "joint-livret",
           "label": "Livret Joint (vacances)",
-          "montant": 10
+          "montant": 0.1
         }
       ]
     }
